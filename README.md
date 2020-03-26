@@ -1,2 +1,2 @@
 # be_the_hero
-Front em react e Back em node usando sqlite da semana Omini11
+Front em react e Back em node usando sqlite como database da semana Omini11
